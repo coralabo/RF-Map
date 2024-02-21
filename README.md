@@ -11,7 +11,7 @@ Artifact Evaluation Reproduction for "RF-CGRA: a routing-friendly CGRA with hier
     5. [Data formats](#data-formats)
 # Directory Structure
 ```
-RfCgraTrans
+RF-Map
 │───README.md
 │───build.sh
 │───run.sh
